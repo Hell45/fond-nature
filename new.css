@@ -1,0 +1,40 @@
+.text2{
+	color: orange;
+	font-size: 50px;
+	top: 700px;
+	right: 70%;
+	position: absolute;
+}
+.text3{
+	color: black;
+	font-size: 18px;
+	top: 1200px;
+	left: 200px;
+	left: 14%;
+	position: absolute;
+
+
+}
+.text4{
+	color: green;
+	font-size: 22px;
+	bottom: 110px;
+	left: px;
+	position: absolute;
+}
+.text5{
+	color: green;
+	position: absolute;
+	top: 70px;
+	}
+
+
+.table1{
+	position: relative;
+	top: 1500px;
+	width: 100%;
+}
+
+
+
+

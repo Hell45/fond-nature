@@ -1,0 +1,28 @@
+.textnew{
+	
+	text-decoration: underline;
+	font-size: 50px;
+	color: green;
+	position: absolute;
+	top: 700px;
+	left: 50px;
+}
+.p {
+	font-family: sans-serif;
+	position: absolute;
+	font-style: italic;
+	font-size: 20px;
+	line-height: 30px;
+	top: 800px;
+	left: 560px;
+
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	position: absolute;
+	line-height: 30px;
+	font-size: 20px;
+	top: 1200px;
+	left: px;
+}
